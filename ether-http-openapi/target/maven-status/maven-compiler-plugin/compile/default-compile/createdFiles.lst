@@ -1,0 +1,12 @@
+dev/rafex/ether/http/openapi/OpenApiServer.class
+dev/rafex/ether/http/openapi/OpenApiRequestBody.class
+dev/rafex/ether/http/openapi/OpenApiSchema.class
+dev/rafex/ether/http/openapi/OpenApiParameter.class
+dev/rafex/ether/http/openapi/OpenApiInfo.class
+dev/rafex/ether/http/openapi/OpenApiOperation.class
+dev/rafex/ether/http/openapi/OpenApiDocument.class
+dev/rafex/ether/http/openapi/OpenApiPathItem.class
+dev/rafex/ether/http/openapi/OpenApiResponse.class
+dev/rafex/ether/http/openapi/OpenApiComponents.class
+dev/rafex/ether/http/openapi/OpenApiMediaType.class
+dev/rafex/ether/http/openapi/OpenApiDocumentBuilder.class
