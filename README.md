@@ -11,3 +11,8 @@ OpenAPI 3.1 document models and builders for Ether HTTP.
 
 This module is intentionally small. It provides the vocabulary and document
 assembly layer, not a full annotation scanner or code generator yet.
+
+## Notes
+
+- The current scope is description and rendering, not route introspection.
+- It is meant to be paired later with adapters that project `ether-http-core` routes into OpenAPI documents.
